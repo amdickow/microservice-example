@@ -1,0 +1,9 @@
+[submodule "healthcheck"]
+	path = healthcheck
+	url = git@github.com:amdickow/healthcheck.git
+[submodule "accountservice"]
+	path = accountservice
+	url = git@github.com:amdickow/accountservice.git
+[submodule "loadtest"]
+	path = loadtest
+	url = git@github.com:amdickow/loadtest.git
